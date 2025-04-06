@@ -45,7 +45,7 @@ The model is trained, evaluated, and integrated with a simple GUI using Tkinter 
 
 ## 📚 Dataset
 
-- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/): 28x28 grayscale images of handwritten digits.
+- [Dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification): 28x28 grayscale images of handwritten digits.
 
 ## 🙋‍♂️ Author
 
