@@ -1,5 +1,5 @@
 
-# Handwritten Digit Recognition using MNIST and Deep Learning 🧠🖊️
+# Handwritten Digit Recognition using MNIST 🧠🖊️
 
 This project demonstrates a deep learning-based solution to recognize handwritten digits (0–9) using the MNIST dataset. A Convolutional Neural Network (CNN) model was built with Keras and TensorFlow to classify grayscale images of handwritten digits with high accuracy.
 
